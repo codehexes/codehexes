@@ -6,6 +6,8 @@ I'm a solution architect 🔭 and cloud software engineer ☁️, specializing i
 
 I currently work as the DevOps Lead 🧙‍♂️ for [PWCC Marketplace](https://www.pwccmarketplace.com), the world's largest trading card auction house.
 
+I also maintain a side company, [The Walford Group](https://www.thewalfordgroup.com), where I provide independent services for software, infrastructure, and systems.
+
 ## Life's not all code
 
 I'm an avid mountain biker 🚴‍♂️, gamer 🎮, camper ⛺️, and reader 📖, and enjoy studying philosophy, religion, computer science, information theory, and physics.

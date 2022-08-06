@@ -12,6 +12,8 @@ I also maintain a side company, [The Walford Group](https://www.thewalfordgroup.
 
 I'm an avid mountain biker 🚴‍♂️, gamer 🎮, camper ⛺️, and reader 📖, and enjoy studying philosophy, religion, computer science, information theory, and physics.
 
+I also enjoy photographing 📷 nature and recently started participating on [iNaturalist](https://www.inaturalist.org/home).
+
 ## Education
 
 - B.A., Liberal Studies, Mercer University (Macon, GA, US) - 2011

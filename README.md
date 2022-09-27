@@ -1,20 +1,22 @@
 # Welcome to my profile!
 
-I'm a solution architect 🔭 and cloud software engineer ☁️, specializing in AWS and a variety of languages and technologies including PHP, Javascript, Python, SQL, and Linux.
+I'm a solution architect and cloud software engineer, specializing in AWS and a variety of languages and technologies including PHP, Javascript, Python, SQL, and Linux.
 
 ## What I Do
 
-I currently work as the DevOps Lead 🧙‍♂️ for [PWCC Marketplace](https://www.pwccmarketplace.com), the world's largest trading card auction house.
+I currently work as the DevOps Lead for [PWCC Marketplace](https://www.pwccmarketplace.com), the world's largest trading card auction house.
 
-I also maintain a side company, [The Walford Group](https://www.thewalfordgroup.com), where I provide independent services for software, infrastructure, and systems.
+I also maintain my own company, [The Walford Group](https://www.thewalfordgroup.com), where I provide independent services for software, infrastructure, and systems.
 
 For more information, [check my LinkedIn profile](https://www.linkedin.com/in/calvin-walford/)
 
 ## When I'm Not Coding
 
-I'm an avid mountain biker 🚴‍♂️, gamer 🎮, camper ⛺️, and reader 📖, and enjoy studying philosophy, religion, computer science, information theory, and physics.
+I'm an avid mountain biker 🚵, backpacker ⛺️, and reader 📖, and in my spare time enjoy studying plants, mushrooms, computer science, information theory, and physics.
 
-I also enjoy photographing 📷 nature and recently started participating on [iNaturalist](https://www.inaturalist.org/home).
+- 🍃 [iNaturalist](https://www.inaturalist.org/home)
+- 📸 [Instagram](https://www.instagram.com/a.biking.viking)
+- 🚴‍♂️ [Strava](https://www.strava.com/athletes/53888752)
 
 ## Education
 

@@ -2,7 +2,7 @@
 
 ## What I Do
 
-I'm a solution architect and cloud software engineer, specializing in AWS and a variety of languages and technologies including PHP, Javascript, Java, Python, SQL, and Linux.
+I'm a solution architect and cloud software engineer, specializing in AWS and a variety of languages and technologies including PHP, Javascript, Java, Python, SQL, and Linux.  I also dabble in iOS development with SwiftUI.
 
 For more information, [check my LinkedIn profile](https://www.linkedin.com/in/calvin-walford/)
 

@@ -15,7 +15,6 @@ I'm an avid amateur naturalist 🌱, mountain biker 🚵, backpacker ⛺️, and
 - 🍃 [iNaturalist](https://www.inaturalist.org/people/5994872)
 - 📸 [Instagram](https://www.instagram.com/a.biking.viking)
 - 👋 [LinkedIn](https://www.linkedin.com/in/calvin-walford/)
-- 👨‍💻 [The Walford Group](https://www.thewalfordgroup.com)
 
 ## Education
 

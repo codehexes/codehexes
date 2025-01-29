@@ -2,22 +2,21 @@
 
 ## What I Do
 
-I'm a solution architect and devops engineer, specializing in AWS and a variety of languages and technologies including Docker, Linux, PHP, Javascript, Java, Python, and SQL (as well as some dabbling in SwiftUI).  I love automation and DevOps as a culture, not a position.
-
-I run my own independent consulting business at [The Walford Group](https://www.thewalfordgroup.com)
+I currently work as a platform engineer, specializing in Kubernetes & Azure; I am also concurrently pursuing a master's degree & PhD in computer science, specializing in artifical intelligence.  I have a passion for learning and education, and a dream to move into the academic space as a researcher and educator.
 
 For more information, [check my LinkedIn profile](https://www.linkedin.com/in/calvin-walford/)
 
 ## When I'm Not Coding
 
-I'm an avid amateur naturalist 🌱, mountain biker 🚵, runner 🏃, backpacker ⛺️, and reader 📖, and in my spare time enjoy studying the natural world, computer science, artifical intelligence, formal systems, information theory, and physics.  I am also currently pursuing a master's degree in computer science, specializing in artificial intelligence.
+I'm an avid amateur naturalist 🌱, mountain biker 🚵, runner 🏃, backpacker ⛺️, and reader 📖, and in my spare time enjoy studying the natural world, computer science, artifical intelligence, formal systems, information theory, and physics.
 
 - 🍃 [iNaturalist](https://www.inaturalist.org/people/5994872)
 - 📸 [Instagram](https://www.instagram.com/a.biking.viking)
 
 ## Education
 
-- B.A., Liberal Studies, Mercer University (Macon, GA, US) - 2011
+- B.A., Liberal Studies, Mercer University (Macon, GA, US) - 2009-2011
+- M.S., Computer Science, Georgia Institute of Technology (Atlanta, GA, US) - 2023-TBD (in progress)
 
 ## Certifications
 
